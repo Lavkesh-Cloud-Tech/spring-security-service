@@ -25,7 +25,6 @@ dependencyManagement {
 jar {
     archiveName = 'security-service.jar'
     baseName = 'security-service'
-    version =  '0.0.1'
 }
 
 repositories {
